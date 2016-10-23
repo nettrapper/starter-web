@@ -18,6 +18,9 @@ Deploy the project to be clear.
 
 ## How to Contribute
 
+Fork this repository.
+
+
 ### Copyright
 
 Git Training 2016
