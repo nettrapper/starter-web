@@ -17,3 +17,7 @@ Deploy the project to be clear.
 
 
 ## How to Contribute
+
+### Copyright
+
+Git Training 2016
