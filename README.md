@@ -25,3 +25,4 @@ Fork this repository.
 ### Copyright
 
 Git Training 2016
+All rights reserved.
